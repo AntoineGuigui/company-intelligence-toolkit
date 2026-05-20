@@ -1,0 +1,30 @@
+# Proprietary data — DO NOT COMMIT
+DataBase.xlsm
+Template.pptx
+logo/
+Flags/
+Sorties/
+field_merges.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
