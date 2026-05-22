@@ -26,13 +26,9 @@ Use the [Company Intelligence Generator](https://github.com/AntoineGuigui/compan
 
 ## 📸 Screenshots
 
-> _Add screenshots of the Flask interface here: `docs/screenshots/`_
-
 | Main Interface | Company Detail | Admin Panel |
 |---|---|---|
-| Three-column layout with real-time search | Company card with confidence stars | Field clustering & manual merges |
-
----
+| ![](docs/screenshots/interface.png) | ![](docs/screenshots/detail.png) | ![](docs/screenshots/admin.png) |
 
 ## 🚀 Quick Start
 
